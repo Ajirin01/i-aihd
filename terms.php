@@ -64,17 +64,17 @@
             
 
             <div class="site-logo">
-              <a href="index.html" class="text-white"><img class="logo" src="images/logo.png" alt=""></a>
+              <a href="index" class="text-white"><img class="logo" src="images/logo.png" alt=""></a>
             </div>
 
 
             <nav class="site-navigation text-left ml-auto " role="navigation">
               <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="about.html" class="nav-link">About Us</a></li>
-                <li><a href="causes.html" class="nav-link">Our Causes</a></li>
-                <li><a href="blog.html" class="nav-link">Blog</a></li>
-                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="active"><a href="index" class="nav-link">Home</a></li>
+                <li><a href="about" class="nav-link">About Us</a></li>
+                <li><a href="causes" class="nav-link">Our Causes</a></li>
+                <li><a href="blog" class="nav-link">Blog</a></li>
+                <li><a href="contact" class="nav-link">Contact</a></li>
               </ul>
             </nav>
 
@@ -141,7 +141,7 @@
 
         <section>
             <h2>7. Privacy Policy</h2>
-            <p>By using our website, you also agree to our <a href="privacy-policy.html">Privacy Policy</a>, which outlines how we collect and use your personal data.</p>
+            <p>By using our website, you also agree to our <a href="/privacy">Privacy Policy</a>, which outlines how we collect and use your personal data.</p>
         </section>
 
         <section>
@@ -153,7 +153,7 @@
             <h2>9. Contact Us</h2>
             <p>If you have any questions about these Terms and Conditions, please contact us at:</p>
             <ul>
-                <li>Email: <a href="mailto:contact@i-aihd.com">contact@i-aihd.com</a></li>
+                <li>Email: <a href="mailto:contact@i-aihd.org">contact@i-aihd.org</a></li>
                 <li>Phone: <a href="tel:+2348058431580">+234 805 843 1580</a></li>
             </ul>
         </section>
@@ -188,11 +188,11 @@
               <div class="col-md-4 ml-auto">
                 <h2 class="footer-heading mb-4">Features</h2>
                 <ul class="list-unstyled">
-                  <li><a href="/about.html">About Us</a></li>
+                  <li><a href="/about">About Us</a></li>
                   <!-- <li><a href="#">Testimonials</a></li> -->
-                  <li><a href="/terms.html">Terms of Service</a></li>
-                  <li><a href="/privacy.html">Privacy</a></li>
-                  <li><a href="/contact.html">Contact Us</a></li>
+                  <li><a href="/terms">Terms of Service</a></li>
+                  <li><a href="/privacy">Privacy</a></li>
+                  <li><a href="/contact">Contact Us</a></li>
                 </ul>
               </div>
 
@@ -213,7 +213,7 @@
 
 
             <h2 class="footer-heading mb-4">Follow Us</h2>
-            <a href="#about-section" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
+            <a href="https://web.facebook.com/IAIHD/" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>

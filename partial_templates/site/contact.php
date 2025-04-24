@@ -4,7 +4,7 @@
 
       <div class="box-92819">
         <h1 class="text-white mb-3">Contact Us</h1>
-        <p class="lead text-white">Whether you have inquiries about our programs, need support, or want to collaborate, we’re here to help. Reach out to us for more information on how we can work together to improve healthcare and human rights for vulnerable communities.</p>
+        <p class="lead text-white">Should you have any enquiries about our programs, need our support, or want to collaborate with us, we are here for you. Reach out to us for more information on how we can work together to improve the healthcare and human rights of vulnerable individuals in Nigeria.</p>
       </div>
 
       
@@ -60,8 +60,8 @@
                 
                 <li class="d-block mb-3">
                   <span class="d-block text-muted small text-uppercase font-weight-bold">Email:</span>
-                  <a href="mailto:contact@i-aihd.com">
-                    <span>contact@i-aihd.com</span>
+                  <a href="mailto:contact@i-aihd.org">
+                    <span>contact@i-aihd.org</span>
                   </a>
                 </li>
                 

@@ -26,6 +26,8 @@ $comments = $comment_stmt->get_result();
 
 if(isset($_SESSION['user'])){
     $user = json_decode($_SESSION['user']);
+}else{
+    $user = [];
 }
 
 
@@ -104,13 +106,14 @@ function fetchReplies($db, $parent_id)
                 <div class="pt-5">
                     <h3 class="mb-5"><?php echo $comments->num_rows; ?> Comments</h3>
                     <ul class="comment-list" id="comment-list">
-                        <input type="hidden" name="username" id="username" value="<?= $user->name ?>">
-                        <input type="hidden" name="userId" id="userId" value="<?= $user->id ?>">
+
+                        <input type="hidden" name="username" id="username" value="<?= $user? $user->name : "" ?>">
+                        <input type="hidden" name="userId" id="userId" value="<?= $user? $user->id : "" ?>">
 
                         <?php while ($comment = $comments->fetch_assoc()): ?>
                             <li class="comment" id="comment-<?php echo $comment['id']; ?>">
                                 <div class="vcard bio">
-                                    <img src="images/person_2.jpg" alt="Commenter Image">
+                                    <img src="images/user-icon.png" alt="Commenter Image">
                                 </div>
                                 <div class="comment-body">
                                     <h3><?php echo htmlspecialchars($comment['name']); ?></h3>

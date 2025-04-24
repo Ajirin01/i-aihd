@@ -3,8 +3,8 @@
       <div class="container">
         
             <div class="d-md-flex cta-20101 align-self-center bg-light p-5">
-              <div class=""><h4 class="text-cursive">Providing Healthcare, Advocacy, and Support for Vulnerable Communities</h4></div>
-              <div class="ml-auto"><a href="#" class="btn btn-primary">Donate Now</a></div>
+              <div class=""><h4 class="text-cursive">Kindly make a donation to support our work...</h4></div>
+              <div class="ml-auto"><a href="/#donate" class="btn btn-primary">Donate Now</a></div>
             </div>
         
       </div>
@@ -17,17 +17,17 @@
             <div class="row">
               <div class="col-md-7">
                 <h2 class="footer-heading mb-4">About Us</h2>
-                <p>Initiative for the Advancement of Improved Health and Development (I-AIHD) is a registered human rights and health care services non governmental and not for profit organisation for vulnerable people in Nigeria with registration number CAC/IT/NO100634.</p>
+                <p>Initiative for the Advancement of Improved Health and Development (I-AIHD) is a registered human rights and healthcare services non governmental and not for profit organisation for vulnerable people in Nigeria with registration number CAC/IT/NO100634.</p>
 
               </div>
               <div class="col-md-4 ml-auto">
                 <h2 class="footer-heading mb-4">Features</h2>
                 <ul class="list-unstyled">
-                  <li><a href="/about.html">About Us</a></li>
+                  <li><a href="/about">About Us</a></li>
                   <!-- <li><a href="#">Testimonials</a></li> -->
-                  <li><a href="/terms.html">Terms of Service</a></li>
-                  <li><a href="/privacy.html">Privacy</a></li>
-                  <li><a href="/contact.html">Contact Us</a></li>
+                  <li><a href="/terms">Terms of Service</a></li>
+                  <li><a href="/privacy">Privacy</a></li>
+                  <li><a href="/contact">Contact Us</a></li>
                 </ul>
               </div>
 
@@ -51,7 +51,7 @@
 
 
             <h2 class="footer-heading mb-4">Follow Us</h2>
-            <a href="#about-section" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
+            <a href="https://web.facebook.com/IAIHD/" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
