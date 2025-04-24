@@ -1,7 +1,7 @@
 <?php
 
-$email_to = "contact@iaihd.org"; 
-$email_from = "webmaster@iaihd.org"; 
+$email_to = "contact@i-aihd.org"; 
+$email_from = "webmaster@i-aihd.org"; 
 $email_subject = "New Donation Notification";
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {

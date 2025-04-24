@@ -1,7 +1,7 @@
 <?php
 
-$email_to = "contact@iaihd.org"; 
-$email_from = "webmaster@iaihd.org"; 
+$email_to = "contact@i-aihd.org"; 
+$email_from = "webmaster@i-aihd.org"; 
 $email_subject = "Contact Form Submitted";
 
 if(isset($_POST['email']))
@@ -17,10 +17,9 @@ if(isset($_POST['email']))
         return_error('Please fill in all required fields.');
     }
 
-    // Sanitize form input
-    $name = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
-    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
-    $message = filter_var($_POST['message'], FILTER_SANITIZE_STRING);
+    $name = htmlspecialchars(trim($_POST['name']), ENT_QUOTES, 'UTF-8');
+    $email = filter_var(trim($_POST['email']), FILTER_SANITIZE_EMAIL);
+    $message = htmlspecialchars(trim($_POST['message']), ENT_QUOTES, 'UTF-8');
 
     // Validate email format
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {

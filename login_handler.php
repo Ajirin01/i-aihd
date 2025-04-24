@@ -23,9 +23,13 @@
               exit;
           } else {
               echo '<script>alert("Invalid password. Please try again.");</script>';
+              header('Location: /login');
+              exit;
           }
       } else {
           echo '<script>alert("Email not found. Please check your credentials.");</script>';
+          header('Location: /login');
+            exit;
       }
   }
 ?>
