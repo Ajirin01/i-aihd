@@ -49,7 +49,7 @@
               <ul class="list-unstyled footer-link">
                 <li class="d-block mb-3">
                   <span class="d-block text-muted small text-uppercase font-weight-bold">Head Office Address:</span>
-                  <span>E9/2470, Mama-Ke Street, Academy, Iwo Road, Ibadan, Oyo State, Nigeria</span></li>
+                  <span>E9/2470, Mama-Ke Street, Academy, Iwo Road, Ibadan, Oyo State, Nigeria. Zip code: 200223</span></li>
                 <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Telepone: </span><a href="tel:+2348058431580"><span>+2348 05 843 1580</span></a></li>
                 <li class="d-block mb-3">
                   <span class="d-block text-muted small text-uppercase font-weight-bold">WhatsApp:</span>
