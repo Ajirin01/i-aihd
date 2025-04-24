@@ -4,7 +4,7 @@
 
       <div class="box-92819">
         <h1 class="text-white mb-3">Publications</h1>
-        <p class="lead text-white">Stay informed with our latest articles on healthcare access, human rights advocacy, and community development. Explore stories, research, and updates from our initiatives to make a lasting impact.</p>
+        <p class="lead text-white">Stay informed with our latest articles on healthcare, human rights, advocacy, stakeholders’ engagement and community development. Explore stories, research findings, and updates from our initiatives to make a lasting impact.</p>
       </div>
 
       

@@ -62,7 +62,7 @@
             <div class="pt-5">
               <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://ajirinibi.com.ng" target="_blank" >Ajirinibi Web Solutions</a>
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://ajirinibi.com.ng" target="_blank" >Initiative for the Advancement of Improved Health and Development</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>

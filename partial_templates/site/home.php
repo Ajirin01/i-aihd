@@ -109,7 +109,7 @@
               <div class="col-md-7">
                 <div class="heading-20219">
                   <h2 class="title text-white mb-4 text-cursive">Why Choose Us</h2>
-                  <p class="text-white">Initiative for the Advancement of Improved Health and Development(I-AIHD) is dedicated to enhancing the sexual and reproductive health and rights of vulnerable people in Nigeria, through public education, advocacy, and direct service delivery, and stakeholders engagement. I-AIHD advocates for a society where every individuals access quality and affordable healthcare, justice and support that they deserve.</p>
+                  <p class="text-white">Initiative for the Advancement of Improved Health and Development(I-AIHD) is dedicated to enhancing the sexual and reproductive health and rights of vulnerable people in Nigeria, through public education, advocacy, direct service delivery, and stakeholders engagement. I-AIHD advocates for a society where every individuals access quality and affordable healthcare, justice and support that they deserve.</p>
                 </div>
               </div>
             </div>
@@ -156,7 +156,7 @@
                   <div class="number mr-4"><span>5</span></div>
                   <div>
                     <h3>Psychosocial Support</h3>
-                    <p>We provide psychosocial support services, including mental health therapy, counselling, emergency shelter and support groups with the aim to address the emotional mental, social, spiritual needs of vulnerable individuals and communities. Promoting overall well-being and resilience.</p>
+                    <p>We provide psychosocial support services, including mental health therapy, counselling, emergency shelter and support groups with the aim to address the emotional, mental, social and spiritual needs of vulnerable individuals and communities. Promoting overall well-being and resilience.</p>
                   </div>
                 </div>
               </div>
@@ -280,7 +280,7 @@
               <strong>Account Name:</strong> Initiative for the Advancement of Improved Health and Development-USD
               <br>
               <strong>Account Number:</strong> 5250287589<br>
-              <strong>SWIFT Code:</strong> FIDTNGLA </p>
+              <strong>Swift Code:</strong> FIDTNGLA </p>
             <p class="text-muted mt-3 mb-0"><em>Please include your name in the payment reference if possible.</em></p>
           </div>
           <div class="modal-footer border-0 justify-content-between">

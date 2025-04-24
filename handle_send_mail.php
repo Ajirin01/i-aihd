@@ -40,12 +40,18 @@ if(isset($_POST['email']))
     // Send email
     if (mail($email_to, $email_subject, $email_message, $headers)) {
         echo json_encode(array('success' => 1, 'message' => 'Form submitted successfully.'));
+        header('Location: /');
+        exit;
     } else {
         return_error('An error occurred while sending your message. Please try again later.');
+        header('Location: /');
+        exit;
     }
 } 
 else 
 {
     return_error('Invalid form submission.');
+    header('Location: /');
+    exit;
 }
 ?>

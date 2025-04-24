@@ -48,9 +48,9 @@
               <h3 class="text-cursive mb-4">Contact Info</h3>
               <ul class="list-unstyled footer-link">
                 <li class="d-block mb-3">
-                  <span class="d-block text-muted small text-uppercase font-weight-bold">Address:</span>
-                  <span>E9/2470, Mama-Ke Street, Academy, Iwo Road, Ibadan, Nigeria, 23402</span></li>
-                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Mobile:</span><a href="tel:+2348058431580"><span>0805 843 1580</span></a></li>
+                  <span class="d-block text-muted small text-uppercase font-weight-bold">Head Office Address:</span>
+                  <span>E9/2470, Mama-Ke Street, Academy, Iwo Road, Ibadan, Oyo State, Nigeria</span></li>
+                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Telepone: </span><a href="tel:+2348058431580"><span>+2348 05 843 1580</span></a></li>
                 <li class="d-block mb-3">
                   <span class="d-block text-muted small text-uppercase font-weight-bold">WhatsApp:</span>
                   <a href="https://wa.me/2348058431580" target="_blank">
@@ -59,7 +59,7 @@
                 </li>
                 
                 <li class="d-block mb-3">
-                  <span class="d-block text-muted small text-uppercase font-weight-bold">Email:</span>
+                  <span class="d-block text-muted small text-uppercase font-weight-bold">Email Address:</span>
                   <a href="mailto:contact@i-aihd.org">
                     <span>contact@i-aihd.org</span>
                   </a>

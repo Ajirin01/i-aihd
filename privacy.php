@@ -186,8 +186,8 @@
       <div class="container">
         
             <div class="d-md-flex cta-20101 align-self-center bg-light p-5">
-              <div class=""><h4 class="text-cursive">Providing Healthcare, Advocacy, and Support for Vulnerable Communities</h4></div>
-              <div class="ml-auto"><a href="#" class="btn btn-primary">Donate Now</a></div>
+              <div class=""><h4 class="text-cursive">Kindly make a donation to support our work...</h4></div>
+              <div class="ml-auto"><a href="/#donate" class="btn btn-primary">Donate Now</a></div>
             </div>
         
       </div>
