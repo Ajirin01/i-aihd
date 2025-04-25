@@ -74,6 +74,11 @@
           </div>
           <div class="col-md-2">
             <div class="cause shadow-sm text-center py-2 px-2">
+              <img src="/images/osaca2.jpg" alt="OSACA" class="img-fluid mb-3" style="max-height: 100px;">
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="cause shadow-sm text-center py-2 px-2">
               <img src="/images/ehai.jpeg" alt="EHAI" class="img-fluid mb-3" style="max-height: 100px;">
             </div>
           </div>
@@ -89,7 +94,7 @@
           </div>
           <div class="col-md-3">
             <div class="cause shadow-sm text-center py-2 px-2">
-              <img src="/images/fred.jpg" alt="lawyers-alert" class="img-fluid mb-3" style="max-height: 100px;">
+              <img src="/images/fred.jpg" alt="fred" class="img-fluid mb-3" style="max-height: 100px;">
             </div>
           </div>
           <!-- Add more partners as needed -->
