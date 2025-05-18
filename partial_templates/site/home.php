@@ -45,7 +45,7 @@
     <div class="site-section">
       <div class="container">
         
-        <div class="row mb-5 align-items-st">
+        <div class="row mb-5 align-items-st" id="our-partners">
           <div class="col-md-4">
             <div class="heading-20219">
               <h2 class="title text-cursive">Our Partners</h2>
@@ -108,12 +108,12 @@
     <div class="bg-image overlay site-section" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
     
-        <div class="row align-items-center">
+        <div class="row align-items-center" id="what-we-do">
           <div class="col-12">
             <div class="row mb-5">
               <div class="col-md-7">
                 <div class="heading-20219">
-                  <h2 class="title text-white mb-4 text-cursive">Why Choose Us</h2>
+                  <h2 class="title text-white mb-4 text-cursive">What We Do</h2>
                   <p class="text-white">Initiative for the Advancement of Improved Health and Development(I-AIHD) is dedicated to enhancing the sexual and reproductive health and rights of vulnerable people in Nigeria, through public education, advocacy, direct service delivery, and stakeholders engagement. I-AIHD advocates for a society where every individuals access quality and affordable healthcare, justice and support that they deserve.</p>
                 </div>
               </div>
@@ -183,13 +183,15 @@
 
     </div>
     
-    <?php
-        include_once 'config.php';
+    <div id="latest-publications">
+      <?php
+          include_once 'config.php';
 
-        // Fetch the latest 2 publications
-        $query = "SELECT * FROM publications ORDER BY created_at DESC LIMIT 2";
-        $result = $db->query($query);
-    ?>
+          // Fetch the latest 2 publications
+          $query = "SELECT * FROM publications ORDER BY created_at DESC LIMIT 2";
+          $result = $db->query($query);
+      ?>
+    </div>
 
     <div class="site-section">
         <div class="container">
@@ -233,7 +235,7 @@
 
 
     <!-- donation -->
-    <div class="site-section bg-image overlay-primary" style="background-image: url('images/img_1.jpg');">
+    <div class="site-section bg-image overlay-primary" style="background-image: url('images/img_1.jpg');" id="donation">
       <div class="container">
         <div class="row align-items-stretch">
           <div class="col-md-6">

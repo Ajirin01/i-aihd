@@ -71,7 +71,7 @@
       
       
       
-      <div class="bg-primary py-3 top-bar shadow d-none d-md-block">
+      <!-- <div class="bg-primary py-3 top-bar shadow d-none d-md-block">
         <div class="container">
           <div class="row">
             <div class="col-md-6 text-md-left pl-0">
@@ -85,7 +85,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <header class="site-navbar site-navbar-target bg-secondary shadow" role="banner">
           <div class="container">
               <div class="row align-items-center position-relative">
@@ -95,7 +95,17 @@
 
                   <nav class="site-navigation text-left ml-auto" role="navigation">
                       <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                          <li id="home"><a href="/" class="nav-link">Home</a></li>
+                          <!-- About Us Dropdown -->
+                          <li class="has-children" id="about">
+                              <a href="/" class="nav-link">Home</a>
+                              <ul class="dropdown">
+                                  <li><a href="/#what-we-do">What We Do</a></li>
+                                  <li><a href="/#our-partners">Our Partners</a></li>
+                                  <li><a href="/#latest-publications">Latest Publications</a></li>
+                                  <li><a href="/#donate">Donation</a></li>
+                                  <!-- <li><a href="about#projects">Latest Projects</a></li> -->
+                              </ul>
+                          </li>
 
                           <!-- About Us Dropdown -->
                           <li class="has-children" id="about">
