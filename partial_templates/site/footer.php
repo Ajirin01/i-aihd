@@ -52,8 +52,8 @@
 
             <h2 class="footer-heading mb-4">Follow Us</h2>
             <a href="https://web.facebook.com/IAIHD/" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+            <a href="https://x.com/I_AIHD" class="pl-3 pr-3"><img src="/images/twitter.png" alt="" style="width: 20px; height: 15px; opacity: .7; margin-top: -5px"></a>
+            <a href="https://instagram.com/i_aihdofficial" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
             <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
           </div>
         </div>
