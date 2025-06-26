@@ -226,7 +226,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>Kingsley Ajana</h2>
-                            <span>Programmes Manager, I-AIHD ECEWS-SPEED CDC Project</span>
+                            <span> Project Manager, I-AIHD ECEWS-SPEED CDC Project </span>
                         </div>
                     </div>
                 </div>
