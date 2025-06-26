@@ -202,7 +202,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>Jude Onumabor</h2>
-                            <span>Executive Director</span>
+                            <span>Executive Director </span>
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>Gift Oku</h2>
-                            <span>Gender Programme Officer</span>
+                            <span>Programmes Officer</span>
                         </div>
                     </div>
                 </div>
@@ -287,7 +287,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>Uthman Rasheed</h2>
-                            <span>Monitoring & Evaluation Assistant</span>
+                            <span>Monitoring & Evaluation Officer</span>
                         </div>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>James Okoloba</h2>
-                            <span>Finance & Administrative Officer</span>
+                            <span>Finance & Administrative Officer </span>
                         </div>
                     </div>
                 </div>
