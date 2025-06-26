@@ -210,10 +210,10 @@
                 <div class="col-lg-4 col-md-6 mb-5">
                     <div class="post-entry-1 h-100 bg-white text-center">
                         <a href="#" class="d-inline-block">
-                            <img src="images/kingsley_ajana.jpg" alt="Kingsley Ajana" class="img-fluid">
+                            <img src="images/ayodeji_amigun.jpg" alt="Ayodeji Amigun" class="img-fluid">
                         </a>
                         <div class="post-entry-1-contents">
-                            <h2>Kingsley Ajana</h2>
+                            <h2>Ayodeji Amigun</h2>
                             <span>Programmes Manager</span>
                         </div>
                     </div>
@@ -222,11 +222,11 @@
                 <div class="col-lg-4 col-md-6 mb-5">
                     <div class="post-entry-1 h-100 bg-white text-center">
                         <a href="#" class="d-inline-block">
-                            <img src="images/christian_oghumu.jpg" alt="Christian Oghumu" class="img-fluid">
+                            <img src="images/kingsley_ajana.jpg" alt="Kingsley Ajana" class="img-fluid">
                         </a>
                         <div class="post-entry-1-contents">
-                            <h2>Christian Oghumu</h2>
-                            <span>Programme Officer (HIV Testing Services)</span>
+                            <h2>Kingsley Ajana</h2>
+                            <span>Programmes Manager, I-AIHD ECEWS-SPEED CDC Project</span>
                         </div>
                     </div>
                 </div>
@@ -268,18 +268,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 mb-5">
-                    <div class="post-entry-1 h-100 bg-white text-center">
-                        <a href="#" class="d-inline-block">
-                            <img src="images/alex.jpg" alt="Alex" class="img-fluid">
-                        </a>
-                        <div class="post-entry-1-contents">
-                            <h2>Quincy Alex Eze</h2>
-                            <span>Monitoring and Evaluation Officer</span>
-                        </div>
-                    </div>
-                </div>
-
                 <!-- <div class="col-lg-4 col-md-6 mb-5">
                     <div class="post-entry-1 h-100 bg-white text-center">
                         <a href="#" class="d-inline-block">
@@ -292,6 +280,17 @@
                     </div>
                 </div> -->
 
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="post-entry-1 h-100 bg-white text-center">
+                        <a href="#" class="d-inline-block">
+                            <img src="images/uthman_rasheed.jpg" alt="Uthman Rasheed" class="img-fluid">
+                        </a>
+                        <div class="post-entry-1-contents">
+                            <h2>Uthman Rasheed</h2>
+                            <span>Monitoring & Evaluation Assistant</span>
+                        </div>
+                    </div>
+                </div>
                 
 
                 <div class="col-lg-4 col-md-6 mb-5">
@@ -301,7 +300,7 @@
                         </a>
                         <div class="post-entry-1-contents">
                             <h2>James Okoloba</h2>
-                            <span>Finance and Administrative Officer</span>
+                            <span>Finance & Administrative Officer</span>
                         </div>
                     </div>
                 </div>
@@ -309,26 +308,16 @@
                 <div class="col-lg-4 col-md-6 mb-5">
                     <div class="post-entry-1 h-100 bg-white text-center">
                         <a href="#" class="d-inline-block">
-                            <img src="images/adesina_oladapo.jpg" alt="Adesina Oladapo" class="img-fluid">
+                            <img src="images/mubarak_olagoke.jpg" alt="Mubarak Olagoke" class="img-fluid">
                         </a>
                         <div class="post-entry-1-contents">
-                            <h2>Adesina Oladapo</h2>
-                            <span>Finance and Administrative Officer 2</span>
+                            <h2>Mubarak Olagoke</h2>
+                            <span>Communication Officer</span>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 mb-5">
-                    <div class="post-entry-1 h-100 bg-white text-center">
-                        <a href="#" class="d-inline-block">
-                            <img src="images/uthman_rasheed.jpg" alt="Uthman Rasheed" class="img-fluid">
-                        </a>
-                        <div class="post-entry-1-contents">
-                            <h2>Uthman Rasheed</h2>
-                            <span>Monitoring and Evaluation Assistant</span>
-                        </div>
-                    </div>
-                </div>
+                
 
             </div>
 
